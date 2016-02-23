@@ -3,7 +3,7 @@ iOS平台的文本输入控件，可以限制输入字数并显示当前输入�
 #Screenshot
 ![CPJTextView预览图](https://github.com/zhaishuai/CPJTextView/blob/master/preview.png)
 #How to Use
-CPJImageClipping使用起来非常简单，不需要编译静态库也不需要其他额外的配置只需要将<code>CPJTextView<code/>文件夹下的文件拷贝至自己的工程下即可.
+CPJImageClipping使用起来非常简单，不需要编译静态库也不需要其他额外的配置只需要将<code>CPJTextView</code>文件夹下的文件拷贝至自己的工程下即可.<br/>
 ##代码示例
 ``` objective-c
 - (void)cofigTextView {
